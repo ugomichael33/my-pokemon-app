@@ -1,6 +1,23 @@
+# Pokémon App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Description
+
+The Pokémon App allows users to explore Pokémon by types, search for Pokémon by name, and view detailed information about each Pokémon, including stats, abilities, and more.
+
+## Features
+
+- List all Pokémon categories/types.
+- Display Pokémon belonging to a specific category with pagination support.
+- Search functionality to find Pokémon by name within a category.
+- Detailed view of Pokémon stats, abilities, and other information.
+
 ## Getting Started
+
+. Clone the repository:
+   ```bash
+   git clone https://github.com/ugomichael33/my-pokemon-app.git
 
 First, run the development server:
 
